@@ -1,4 +1,4 @@
-DOXY_FILE = activity-1
+DOXY_FILE = activity1
 BUILD_FILE = html
 
 
