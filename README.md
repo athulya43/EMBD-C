@@ -1,5 +1,5 @@
 # EMBD-C
-# Activity One -
+# Activity 1
 
 1.To check the status of the Button Sensor i.e whether a passenger have been seated or not.
 2.To check the status of Heater button (ON or OFF)
