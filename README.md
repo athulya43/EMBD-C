@@ -1,6 +1,11 @@
 # EMBD-C
 # Activity 1
 
+# In Action
+
+[![CI](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml)
+[![Cppcheck](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml)
+
 1.To check the status of the Button Sensor i.e whether a passenger have been seated or not.
 
 2.To check the status of Heater button (ON or OFF)
@@ -17,8 +22,5 @@
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/74306039/116658988-8377c400-a9ae-11eb-8a8f-a482bf03ef6c.png)
 
-# In Action
 
-[![CI](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml)
-[![Cppcheck](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml)
 
