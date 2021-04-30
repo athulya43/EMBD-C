@@ -1,0 +1,21 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Cppcheck
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: get_cppcheck
+      run: sudo apt-get install cppcheck
+    - name: Code Quality
+      run: make analysis
