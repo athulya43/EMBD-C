@@ -1,7 +1,7 @@
 # EMBD-C
 # Activity 1
 
-# In Action
+# Embedded Activity
 
 [![CI](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml)
 [![Cppcheck](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml)
