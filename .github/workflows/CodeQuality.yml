@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2.1.5
     - name: get_cppcheck
       run: sudo apt-get install cppcheck
     - name: Code Quality
