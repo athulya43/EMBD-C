@@ -20,4 +20,5 @@
 # In Action
 
 [![CI](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml)
+[![Cppcheck](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml)
 
